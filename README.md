@@ -4,14 +4,27 @@
 >The back-end is the part of a web application or system that handles the server-side operations, meaning it works behind the scenes to manage and process data, logic, and server responses. It powers the functionality of the front-end, which is the part of the application that users directly interact with.
 
 ```plaintext
-├── Frameworks/
-   ├── Express.js/
-├── General/
-├── Node.js/
+├── concepts/
+│   ├── Node.js/
+│   ├── api-design/
+│   │   └── rest-vs-graphql.md
+│   └── authentication/
+│       └── jwt-vs-oauth.md
+├── frameworks/
+│   ├── express/
+│   │   └── express-setup.js
+│   ├── django/
+│   └── laravel/
+├── databases/
+│   ├── sql/
+│   └── mongodb/
 ├── Most Asked Interview Questions/
-   ├── HTML/
-   ├── JavaScript/
-   └── React
+│   ├── Node.js/
+│   ├── JavaScript/
+├── code-snippets/
+│   ├── middleware/
+│   └── database-queries/
+└── README.md
 ```
 
 ### Here are the main responsibilities of the back-end:
