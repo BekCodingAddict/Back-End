@@ -2,6 +2,7 @@
 
 >[!NOTE]
 >The Pug template engine (formerly known as Jade) is a template engine for Node.js that simplifies writing HTML. It uses a clean, minimal syntax that eliminates the need for most HTML tags, resulting in more concise code.
+> - https://pugjs.org 
 
 ## Key Features of Pug:
 - Clean Syntax: Pug removes the need for closing tags and repetitive attributes, making the templates more readable and faster to write.
