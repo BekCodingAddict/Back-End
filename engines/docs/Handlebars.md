@@ -2,6 +2,7 @@
 
 >[!NOTE]
 >Handlebars is a popular templating engine primarily used for creating dynamic HTML content in web applications. It helps developers generate HTML templates that can display dynamic data, separating the logic from the presentation layer. Handlebars is particularly useful for rendering server-side views or integrating with client-side frameworks like React, Angular, or Vanilla JavaScript.
+>- [https://handlebarsjs.com](https://handlebarsjs.com)
 
 ## Key Features of Handlebars:
 ### 1.Logicless Templates:
