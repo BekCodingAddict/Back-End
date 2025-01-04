@@ -2,6 +2,7 @@
 
 >[!TIP]
 >EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML with JavaScript. It is commonly used in Node.js applications to create dynamic web pages by embedding JavaScript code directly within HTML. EJS helps developers easily render data from the server into views by combining logic and templates.
+>- [https://ejs.co](https://ejs.co)
 
 ## Key Features of EJS:
 ### 1.Templating Syntax:
