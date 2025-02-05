@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "b2ff",
+      "userName": "john",
+      "email": "john@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    }
+  ]
+}
